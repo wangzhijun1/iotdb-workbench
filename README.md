@@ -23,10 +23,10 @@
 # IoTDB-Workbench
 
 1.修改官方版本sqlite数据库为mysql
-2.升级jar包版本为iotdb1.3.3
-3.修改一下运行错误
 
-![微信](backend/doc/image/wechat.png)
+2.升级jar包版本为iotdb1.3.3
+
+3.修改一下运行错误
 
 ## 后端服务运行
 
